@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace QueueTest
 {
@@ -22,7 +18,7 @@ namespace QueueTest
         public AQueue(int capacity)
         {
             QueueArray = new T[capacity];
-            this.capacity = capacity;      
+            this.capacity = capacity;
             rear = -1;
             front = 0;
             count = 0;
