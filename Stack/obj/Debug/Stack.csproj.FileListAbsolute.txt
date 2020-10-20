@@ -1,0 +1,9 @@
+\\hr-storage1\HomeFolder\CVillaverde\Documents\Programming Projects\Stack\obj\Debug\Stack.csprojAssemblyReference.cache
+\\hr-storage1\HomeFolder\CVillaverde\Documents\Programming Projects\Stack\obj\Debug\Stack.csproj.CoreCompileInputs.cache
+U:\Documents\Y13\CompSci\Stack\bin\Debug\Stack.exe.config
+U:\Documents\Y13\CompSci\Stack\bin\Debug\Stack.exe
+U:\Documents\Y13\CompSci\Stack\bin\Debug\Stack.pdb
+U:\Documents\Y13\CompSci\Stack\obj\Debug\Stack.csprojAssemblyReference.cache
+U:\Documents\Y13\CompSci\Stack\obj\Debug\Stack.csproj.CoreCompileInputs.cache
+U:\Documents\Y13\CompSci\Stack\obj\Debug\Stack.exe
+U:\Documents\Y13\CompSci\Stack\obj\Debug\Stack.pdb

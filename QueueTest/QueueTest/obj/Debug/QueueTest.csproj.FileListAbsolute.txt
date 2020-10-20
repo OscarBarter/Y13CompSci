@@ -1,0 +1,14 @@
+C:\Users\carlo\source\repos\Data Structures\QueueTest\QueueTest\bin\Debug\QueueTest.exe.config
+C:\Users\carlo\source\repos\Data Structures\QueueTest\QueueTest\bin\Debug\QueueTest.exe
+C:\Users\carlo\source\repos\Data Structures\QueueTest\QueueTest\bin\Debug\QueueTest.pdb
+C:\Users\carlo\source\repos\Data Structures\QueueTest\QueueTest\obj\Debug\QueueTest.csprojAssemblyReference.cache
+C:\Users\carlo\source\repos\Data Structures\QueueTest\QueueTest\obj\Debug\QueueTest.csproj.CoreCompileInputs.cache
+C:\Users\carlo\source\repos\Data Structures\QueueTest\QueueTest\obj\Debug\QueueTest.exe
+C:\Users\carlo\source\repos\Data Structures\QueueTest\QueueTest\obj\Debug\QueueTest.pdb
+U:\Documents\Y13\CompSci\QueueTest\QueueTest\bin\Debug\QueueTest.exe.config
+U:\Documents\Y13\CompSci\QueueTest\QueueTest\bin\Debug\QueueTest.exe
+U:\Documents\Y13\CompSci\QueueTest\QueueTest\bin\Debug\QueueTest.pdb
+U:\Documents\Y13\CompSci\QueueTest\QueueTest\obj\Debug\QueueTest.csprojAssemblyReference.cache
+U:\Documents\Y13\CompSci\QueueTest\QueueTest\obj\Debug\QueueTest.csproj.CoreCompileInputs.cache
+U:\Documents\Y13\CompSci\QueueTest\QueueTest\obj\Debug\QueueTest.exe
+U:\Documents\Y13\CompSci\QueueTest\QueueTest\obj\Debug\QueueTest.pdb

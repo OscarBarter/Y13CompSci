@@ -1,0 +1,21 @@
+\\hr-storage1\HomeFolder\CVillaverde\Documents\Programming Projects\List\bin\Debug\List.exe.config
+\\hr-storage1\HomeFolder\CVillaverde\Documents\Programming Projects\List\bin\Debug\List.exe
+\\hr-storage1\HomeFolder\CVillaverde\Documents\Programming Projects\List\bin\Debug\List.pdb
+\\hr-storage1\HomeFolder\CVillaverde\Documents\Programming Projects\List\obj\Debug\List.csprojAssemblyReference.cache
+\\hr-storage1\HomeFolder\CVillaverde\Documents\Programming Projects\List\obj\Debug\List.csproj.CoreCompileInputs.cache
+\\hr-storage1\HomeFolder\CVillaverde\Documents\Programming Projects\List\obj\Debug\List.exe
+\\hr-storage1\HomeFolder\CVillaverde\Documents\Programming Projects\List\obj\Debug\List.pdb
+\\hr-storage2\Cohort19homeFolder$\OB131092\Documents\Y13\Computer Science\List\obj\Debug\List.csprojAssemblyReference.cache
+\\hr-storage2\Cohort19homeFolder$\OB131092\Documents\Y13\Computer Science\List\obj\Debug\List.csproj.CoreCompileInputs.cache
+\\hr-storage2\Cohort19homeFolder$\OB131092\Documents\Y13\Computer Science\List\obj\Debug\List.exe
+\\hr-storage2\Cohort19homeFolder$\OB131092\Documents\Y13\Computer Science\List\obj\Debug\List.pdb
+\\hr-storage2\Cohort19homeFolder$\OB131092\Documents\Y13\Computer Science\List\bin\Debug\List.exe.config
+\\hr-storage2\Cohort19homeFolder$\OB131092\Documents\Y13\Computer Science\List\bin\Debug\List.exe
+\\hr-storage2\Cohort19homeFolder$\OB131092\Documents\Y13\Computer Science\List\bin\Debug\List.pdb
+\\hr-storage2\Cohort19homeFolder$\OB131092\Documents\Y13\CompSci\List\obj\Debug\List.csprojAssemblyReference.cache
+\\hr-storage2\Cohort19homeFolder$\OB131092\Documents\Y13\CompSci\List\obj\Debug\List.csproj.CoreCompileInputs.cache
+\\hr-storage2\Cohort19homeFolder$\OB131092\Documents\Y13\CompSci\List\obj\Debug\List.exe
+\\hr-storage2\Cohort19homeFolder$\OB131092\Documents\Y13\CompSci\List\obj\Debug\List.pdb
+\\hr-storage2\Cohort19homeFolder$\OB131092\Documents\Y13\CompSci\List\bin\Debug\List.exe.config
+\\hr-storage2\Cohort19homeFolder$\OB131092\Documents\Y13\CompSci\List\bin\Debug\List.exe
+\\hr-storage2\Cohort19homeFolder$\OB131092\Documents\Y13\CompSci\List\bin\Debug\List.pdb
