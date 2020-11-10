@@ -1,0 +1,21 @@
+C:\Users\carlo\source\repos\Sorting\Sorting\bin\Debug\Sorting.exe.config
+C:\Users\carlo\source\repos\Sorting\Sorting\bin\Debug\Sorting.exe
+C:\Users\carlo\source\repos\Sorting\Sorting\bin\Debug\Sorting.pdb
+C:\Users\carlo\source\repos\Sorting\Sorting\obj\Debug\Sorting.csprojAssemblyReference.cache
+C:\Users\carlo\source\repos\Sorting\Sorting\obj\Debug\Sorting.csproj.CoreCompileInputs.cache
+C:\Users\carlo\source\repos\Sorting\Sorting\obj\Debug\Sorting.exe
+C:\Users\carlo\source\repos\Sorting\Sorting\obj\Debug\Sorting.pdb
+C:\Users\carlo\source\repos\Data Structures\Sorting\Sorting\bin\Debug\Sorting.exe.config
+C:\Users\carlo\source\repos\Data Structures\Sorting\Sorting\bin\Debug\Sorting.exe
+C:\Users\carlo\source\repos\Data Structures\Sorting\Sorting\bin\Debug\Sorting.pdb
+C:\Users\carlo\source\repos\Data Structures\Sorting\Sorting\obj\Debug\Sorting.csprojAssemblyReference.cache
+C:\Users\carlo\source\repos\Data Structures\Sorting\Sorting\obj\Debug\Sorting.csproj.CoreCompileInputs.cache
+C:\Users\carlo\source\repos\Data Structures\Sorting\Sorting\obj\Debug\Sorting.exe
+C:\Users\carlo\source\repos\Data Structures\Sorting\Sorting\obj\Debug\Sorting.pdb
+C:\Users\OB131092\OneDrive - Hills Road Sixth Form College\CS\Sorting\Sorting\obj\Debug\Sorting.csprojAssemblyReference.cache
+C:\Users\OB131092\OneDrive - Hills Road Sixth Form College\CS\Sorting\Sorting\obj\Debug\Sorting.csproj.CoreCompileInputs.cache
+C:\Users\OB131092\OneDrive - Hills Road Sixth Form College\CS\Sorting\Sorting\obj\Debug\Sorting.exe
+C:\Users\OB131092\OneDrive - Hills Road Sixth Form College\CS\Sorting\Sorting\obj\Debug\Sorting.pdb
+C:\Users\OB131092\OneDrive - Hills Road Sixth Form College\CS\Sorting\Sorting\bin\Debug\Sorting.exe.config
+C:\Users\OB131092\OneDrive - Hills Road Sixth Form College\CS\Sorting\Sorting\bin\Debug\Sorting.exe
+C:\Users\OB131092\OneDrive - Hills Road Sixth Form College\CS\Sorting\Sorting\bin\Debug\Sorting.pdb
